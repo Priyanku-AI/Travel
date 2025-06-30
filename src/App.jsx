@@ -7,7 +7,7 @@ function App() {
         <div
           className="min-h-screen bg-cover bg-center relative"
           style={{
-            backgroundImage: "url('/background.jpg')",
+            backgroundImage: "url('background.jpg')",
           }}
         >
           <div className="absolute inset-0 bg-gradient-to-b from-black/60 to-transparent"></div>   
