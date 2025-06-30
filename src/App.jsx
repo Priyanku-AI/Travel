@@ -1,9 +1,9 @@
 import Header from "./components/Header/Header";
+import HeroSection from "./components/HeroSection/HeroSection";
 
 function App() {
   return (
     <>
-      <div>
         <div
           className="min-h-screen bg-cover bg-center relative"
           style={{
@@ -14,8 +14,8 @@ function App() {
           <div className="relative z-10">
             <Header />
           </div>
+          <HeroSection />
         </div>
-      </div>
     </>
   );
 }

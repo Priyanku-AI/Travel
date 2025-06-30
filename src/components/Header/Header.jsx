@@ -1,9 +1,9 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCircleChevronDown } from "@fortawesome/free-solid-svg-icons";
-import { faBars } from "@fortawesome/free-solid-svg-icons";
+// import { faBars } from "@fortawesome/free-solid-svg-icons";
 import { faPlane } from "@fortawesome/free-solid-svg-icons";
 import {  faUser,} from "@fortawesome/free-solid-svg-icons";
-import logo from "../../assets/logo.svg";
+// import logo from "../../assets/logo.svg";
 
 function Header() {
   return (

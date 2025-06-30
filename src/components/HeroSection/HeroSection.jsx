@@ -2,7 +2,7 @@
 
 function HeroSection() {
   return (
-    <div>
+    <div className="absolute text-white">
       
     </div>
   )
