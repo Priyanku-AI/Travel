@@ -30,6 +30,12 @@ function HeroSection() {
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo ipsum praesentium voluptatibus sunt accusamus sequi dignissimos error dolorem cumque facilis, dolor, eligendi veritatis atque earum vero. Eius dolore possimus vero, perferendis quos inventore assumenda expedita esse dignissimos atque tempora! Nesciunt!
         </p>
       </div>
+      <div>
+        <h3 className="text-white text-xl font-bold mt-30 ml-50">Let us guide you!</h3>
+        <p className="text-white text-sm w-135 ml-50">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem eum, rerum asperiores perferendis quia, iusto distinctio veritatis perspiciatis, exercitationem facere inventore eaque adipisci.
+        </p>
+      </div>
     </div>
   );
 }
