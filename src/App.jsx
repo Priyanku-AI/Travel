@@ -1,5 +1,6 @@
 import Header from "./components/Header/Header";
 import HeroSection from "./components/HeroSection/HeroSection";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
           </div>
           <HeroSection />
         </div>
+        <Footer />
     </>
   );
 }
