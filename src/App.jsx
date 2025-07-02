@@ -10,7 +10,7 @@ function App() {
             backgroundImage: "url('background.jpg')",
           }}
         >
-          <div className="absolute inset-0 bg-gradient-to-b from-black/60 to-transparent"></div>   
+          <div className="absolute inset-0 bg-gradient-to-b from-black/30 to-transparent"></div>   
           <div className="relative z-10">
             <Header />
           </div>
