@@ -25,6 +25,11 @@ function HeroSection() {
         <FontAwesomeIcon icon={faPlay} className="text-white text-xl cursor-pointer" />
         <span className="text-white text-sm font-bold ml-2 fixed right-106 top-70">Watch Video</span>
       </div>
+      <div className="fixed right-83 top-90 w-50">
+        <p className="text-white text-sm">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo ipsum praesentium voluptatibus sunt accusamus sequi dignissimos error dolorem cumque facilis, dolor, eligendi veritatis atque earum vero. Eius dolore possimus vero, perferendis quos inventore assumenda expedita esse dignissimos atque tempora! Nesciunt!
+        </p>
+      </div>
     </div>
   );
 }
